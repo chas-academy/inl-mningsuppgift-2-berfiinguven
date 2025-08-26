@@ -38,3 +38,4 @@ export function initSearch(people) {
 document.addEventListener("DOMContentLoaded", () => {
   initSearch(people);
 });
+  
